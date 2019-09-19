@@ -27,3 +27,7 @@ To open your React application in VS Code
 
 - cd my-app
 - code .
+
+start server type:
+
+-npm start
