@@ -31,3 +31,7 @@ To open your React application in VS Code
 start server type:
 
 -npm start
+
+Openn browser:
+
+-http://localhost:3000/
