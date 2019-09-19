@@ -18,6 +18,12 @@ To create a new React application:
 
 -create-react-app my-app
 
+              Alternatively, you could skip the installation of create-react-app.
+              For that you need firstly to update to a newer version of nodejs and
+              npm and then you can run.
+              
+                     npx create-react-app yourappname
+
 Go to folder:
 
 - cd my-app
