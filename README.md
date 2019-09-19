@@ -23,6 +23,12 @@ To create a new React application:
               npm and then you can run.
               
                      npx create-react-app yourappname
+                     
+                                      or
+                     
+                     If the create-react-app is not installed. try:
+                     
+                        npm install -g create-react-app
 
 Go to folder:
 
